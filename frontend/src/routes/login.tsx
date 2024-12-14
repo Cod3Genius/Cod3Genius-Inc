@@ -10,13 +10,11 @@ import {
   InputGroup,
   InputRightElement,
   Link,
-  Text,
   useBoolean,
 } from "@chakra-ui/react"
 import {
   Link as RouterLink,
-  createFileRoute,
-  redirect,
+  createFileRoute
 } from "@tanstack/react-router"
 import { type SubmitHandler, useForm } from "react-hook-form"
 
