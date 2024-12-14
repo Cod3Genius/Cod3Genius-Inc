@@ -13,22 +13,22 @@ export function ServicesSection() {
     {
       title: 'SEO Optimization',
       description: 'Optimizamos tu sitio web para mejorar su visibilidad en los motores de búsqueda.',
-      icon: '/path/to/seo-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'Social Media Marketing',
       description: 'Gestionamos tus redes sociales para aumentar tu presencia en línea y atraer más clientes.',
-      icon: '/path/to/social-media-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
-      title: 'Content Creation',
-      description: 'Creamos contenido de alta calidad para atraer y retener a tu audiencia.',
-      icon: '/path/to/content-icon.png', // Cambia esto por la ruta de tu ícono
+      title: 'Desarrollo de Software a Medida',
+      description: 'Creamos software a medida para tu negocio, optimizado para tu industria y necesidades específicas.',
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
-      title: 'PPC Advertising',
+      title: 'Desarrollo de Web & Mobile Apps',
       description: 'Gestionamos campañas de publicidad pagada para maximizar tus conversiones.',
-      icon: '/path/to/ppc-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
   ];
 
@@ -42,8 +42,8 @@ export function ServicesSection() {
             className="flex flex-col items-center justify-center bg-white rounded-lg shadow-lg p-6 w-full md:w-1/2 lg:w-1/4"
           >
             <img src={service.icon} alt={service.title} className="w-16 h-16 mb-4" />
-            <h3 className="text-xl font-bold text-gray-800 mb-2">{service.title}</h3>
-            <p className="text-center text-gray-600">{service.description}</p>
+            <h3 className="text-xl font-bold text-gray-700 mb-2">{service.title}</h3>
+            <p className="text-center text-gray-550">{service.description}</p>
           </div>
         ))}
       </div>

@@ -20,32 +20,32 @@ export function Services() {
     {
       title: 'SEO Optimization',
       description: 'Optimizamos tu sitio web para mejorar su visibilidad en los motores de búsqueda.',
-      icon: '/path/to/seo-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'Social Media Marketing',
       description: 'Gestionamos tus redes sociales para aumentar tu presencia en línea y atraer más clientes.',
-      icon: '/path/to/social-media-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'Content Creation',
       description: 'Creamos contenido de alta calidad para atraer y retener a tu audiencia.',
-      icon: '/path/to/content-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'PPC Advertising',
       description: 'Gestionamos campañas de publicidad pagada para maximizar tus conversiones.',
-      icon: '/path/to/ppc-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'Email Marketing',
       description: 'Diseñamos y ejecutamos campañas de email marketing efectivas para tu negocio.',
-      icon: '/path/to/email-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
     {
       title: 'Web Development',
       description: 'Desarrollamos sitios web modernos y funcionales para impulsar tu presencia en línea.',
-      icon: '/path/to/web-dev-icon.png', // Cambia esto por la ruta de tu ícono
+      icon: '/assets/images/CG.png', // Cambia esto por la ruta de tu ícono
     },
   ];
 

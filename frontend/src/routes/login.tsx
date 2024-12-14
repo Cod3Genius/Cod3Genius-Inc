@@ -20,7 +20,7 @@ import {
 } from "@tanstack/react-router"
 import { type SubmitHandler, useForm } from "react-hook-form"
 
-import Logo from "/assets/images/fastapi-logo.svg"
+import Logo from "/assets/images/CG.png"
 import type { Body_login_login_access_token as AccessToken } from "../client"
 import useAuth from "../hooks/useAuth"
 import { emailPattern } from "../utils"
@@ -125,12 +125,6 @@ function Login() {
         <Button variant="primary" type="submit" isLoading={isSubmitting}>
           Log In
         </Button>
-        <Text>
-          Don't have an account?{" "}
-          <Link as={RouterLink} to="/signup" color="blue.500">
-            Sign up
-          </Link>
-        </Text>
       </Container>
     </>
   )

@@ -27,7 +27,7 @@ export function About(){
     {
       name: 'Jussepe Fernandez M.',
       role: 'CEO',
-      photo: '/assets/images/CG.png', // Cambia esto por la ruta de la foto
+      photo: '/assets/images/founder.jpg', // Cambia esto por la ruta de la foto
     },
     {
       name: 'Jeremias castro',
@@ -37,7 +37,7 @@ export function About(){
     {
       name: 'Jussepe Fernandez M.',
       role: 'Backend Developer',
-      photo: '/assets/images/CG.png', // Cambia esto por la ruta de la foto
+      photo: '/assets/images/founder.jpg', // Cambia esto por la ruta de la foto
     },
     
   ];
@@ -46,8 +46,8 @@ export function About(){
   const founder: Founder = {
     name: 'Jussepe Fernandez M.',
     title: 'Fundador y CEO',
-    bio: 'Jussepe Fernandez M. es el visionario detrás de Cod3Genius, una empresa de Soluciones de software que tiene como meta cambiar la forma en la que vemos el mundo digital. Con más de 15 años de experiencia en el sector, Jussepe Fernandez ha liderado el crecimiento de la empresa desde sus humildes comienzos hasta convertirse en un referente en el mercado.',
-    photo: '/assets/images/CG.png', // Cambia esto por la ruta de la foto
+    bio: 'Jussepe Fernandez M. es el visionario detrás de Cod3Genius, una empresa de Soluciones de software que tiene como meta cambiar la forma en la que vemos el mundo digital. Con más de 4 años de experiencia en el sector, Jussepe Fernandez ha liderado el crecimiento de la empresa desde sus humildes comienzos hasta convertirse en un referente en el mercado.',
+    photo: '/assets/images/founder.jpg', // Cambia esto por la ruta de la foto
   };
 
   return (
